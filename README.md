@@ -32,3 +32,5 @@ remember to use Web_app Clien Id , not Anroid_app_clien_id.
 3. 
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_16/main/output.png)
+
+ref: https://johncodeos.com/how-to-add-google-login-button-to-your-android-app-using-kotlin/
