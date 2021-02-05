@@ -4,7 +4,11 @@ Login &amp; Oauth
 
 remember to use Web_app Clien Id , not Anroid_app_clien_id.
 
-1.code
+1.exchange key
+
+  see file called KatesOauh.
+
+2.code
 
 
         //config
@@ -19,5 +23,12 @@ remember to use Web_app Clien Id , not Anroid_app_clien_id.
         btn.setOnClickListener {
             signIn()
         }
+        
+        
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_16/main/gauth.png)
+
+
+3. 
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_16/main/output.png)
